@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_image_width">26dip</dimen>
+    <dimen name="item_image_height">20dip</dimen>
+    <dimen name="hero_avatar_height">52dip</dimen>
+    <dimen name="hero_avatar_width">93dip</dimen>
+</resources>
